@@ -7,7 +7,7 @@ IMPORTANT
 
 Make sure you have a Pak bypass program before you install mods otherwise it won't work.
 You can download mods and pak bypass here https://www.nirvanacheats.com/ just go to 'products' for pak bypass and 'Mods' for mods.
-
+**Also turn off you're antivirus if you want this to work as it's being flag as malicious but it's just false positives**
 
 ______________________________________________________________________________
 HOW TO USE  
