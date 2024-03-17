@@ -1,3 +1,8 @@
+# https://github.com/gboy17-source/DBDPakInstallerGUI2
+#^THIS IS THE UPDATED VERSION. I HAVE POSTED IT IN A NEW REPOSITORY.
+
+
+
 Gboy's DBD Pak Installer (Note this is for epic games only. I will add an option for steam in the future)
 
 Hi, I'm a noob programmer and this is my first program release please be gentle
